@@ -10,6 +10,6 @@ How to Run
 Install Python 3
 
 Run the file using:
-python filename.py
+python Game_Code.py
 
 Enter the grid size and number of diamonds when prompted

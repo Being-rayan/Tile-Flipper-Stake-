@@ -1,5 +1,4 @@
-
-Diamond Grid Game
+**Diamond Grid Game**
 
 This is a simple command-line Python game where players try to uncover hidden diamonds 💎 on a grid without hitting an empty tile. The grid size and number of diamonds are decided by the user, making each round different. The goal is to build the longest streak by selecting the correct tiles.
 
